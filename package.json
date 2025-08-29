@@ -1,0 +1,16 @@
+{
+  "name": "product_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "app": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1"
+  }
+}
